@@ -8,12 +8,12 @@ nav_order: 3
 
 ![250px\|thumb\|right\|upright=2.5\|Lublin](/assets/images/Lublin.jpg)
 
-Thirty-first EEGLAB Workshop
+Thirty-third EEGLAB Workshop
 ============================
 
 <span style="color: blue">Lublin, Poland - 12-16 of September 2022
 </span>
-The 31st EEGLAB Workshop will take place at [the John Paul II Catholic
+The 33rd EEGLAB Workshop will take place at [the John Paul II Catholic
 University of Lublin](https://www.kul.pl/kul,21.html) in
 [Lublin](https://en.wikipedia.org/wiki/Lublin), Poland, about 2-hour by
 train from Warsaw. Participants will be expected to bring laptops with
@@ -105,7 +105,7 @@ Community Liaison at MathWorks for bringing this support from MathWorks
 to the workshop.
  <span style="color: red">License information coming soon.</span>
 
-Workshop Program (with corresponding PDFs)
+Preliminary Workshop Program (with corresponding PDFs)
 ------------------------------------------
 
 <b>Material for the working (including EEGLAB) will be made available on
